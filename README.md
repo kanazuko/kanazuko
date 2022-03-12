@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about coding and improve my skills
 - 🌱 I’m currently learning python and VBA with MS Excel
 - 💞️ I’m looking to collaborate on web, python, and everything I can collaborate in open source proyects
-- 📫 How to reach me https://www.linkedin.com/in/ra%C3%BAl-eduardo-avila-mata-a67aa1134/ or telegram 
+- 📫 How to reach me https://www.linkedin.com/in/ra%C3%BAl-eduardo-avila-mata-a67aa1134/ or telegram +52(33)13409567
 
 <!---
 kanazuko/kanazuko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
